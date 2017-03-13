@@ -107,6 +107,11 @@ public class MainActivity extends AppCompatActivity {
             case 5:
                 int j = 0 ;
         }
+        int k = 10;
+        switch (k = k + 5) {
+            case 5:
+                int l = 0 ;
+        }
 
     }
 
